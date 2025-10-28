@@ -1,5 +1,9 @@
 # Data Normalization & Relational Modeling (Excel Power Query)
 
+This repository documents the process of transforming a raw dataset into a well-structured relational database model through data normalization — from First Normal Form (1NF) to Third Normal Form (3NF) — using Microsoft Excel Power Query.
+
+The goal of this project is to eliminate redundancy, ensure data integrity, and prepare the dataset for scalable relational database use (e.g., SQL Server, Access, or Power BI).
+
 **Project Overview**
 
 Raw data often contains redundant and inconsistent information that can cause reporting and analysis issues.
