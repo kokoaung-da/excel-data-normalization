@@ -22,8 +22,6 @@ This project applies normalization principles to reorganize data into a relation
 
 <h3 align="center">🧩 Excel Data Normalization (1NF → 3NF)</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/1_normal_form.png" width="300" alt="1st Normal Form">
-  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/2_normal_form.png" width="300" alt="2nd Normal Form">
-  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/3_normal_form.png" width="300" alt="3rd Normal Form">
-</p>
+![1NF](https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/1_normal_form.png)
+![2NF](https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/2_normal_form.png)
+![3NF](https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/3_normal_form.png)
