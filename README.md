@@ -20,7 +20,7 @@ This project applies normalization principles to reorganize data into a relation
 - Demonstrate best practices for data modeling and relationship design
 
 
-<h3 align="center">🧩 Excel Data Normalization (1NF → 3NF)</h3>
+<h3 align="center"> Excel Data Normalization (1NF → 3NF)</h3>
 
 **1NF**
 ![1NF](https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/1_normal_form.png)
