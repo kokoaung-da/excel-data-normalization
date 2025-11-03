@@ -18,3 +18,12 @@ This project applies normalization principles to reorganize data into a relation
 - Create a clean, connected relational model ready for database import or BI tools
 
 - Demonstrate best practices for data modeling and relationship design
+
+
+<h3 align="center">🧩 Excel Data Normalization (1NF → 3NF)</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/1_normal_form.png" width="300" alt="1st Normal Form">
+  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/2_normal_form.png" width="300" alt="2nd Normal Form">
+  <img src="https://raw.githubusercontent.com/kokoaung-da/excel-data-normalization/main/3_normal_form.png" width="300" alt="3rd Normal Form">
+</p>
